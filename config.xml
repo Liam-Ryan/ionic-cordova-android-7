@@ -81,5 +81,5 @@
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^1.2.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
-    <plugin name="cordova-plugin-fingerprint-aio" spec="https://github.com/Liam-Ryan/cordova-plugin-fingerprint-aio/commit/fd18691055de3d27dbb01573df1a651922302af8" />
+    <plugin name="cordova-plugin-fingerprint-aio" spec="git+https://github.com/Liam-Ryan/cordova-plugin-fingerprint-aio.git#fd18691055de3d27dbb01573df1a651922302af8" />
 </widget>
